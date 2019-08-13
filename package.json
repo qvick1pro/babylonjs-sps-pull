@@ -1,0 +1,22 @@
+{
+  "name": "babylonjs-sps-pull",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qvick1pro/babylonjs-sps-pull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qvick1pro/babylonjs-sps-pull/issues"
+  },
+  "homepage": "https://github.com/qvick1pro/babylonjs-sps-pull#readme",
+  "dependencies": {
+    "babylonjs": "^4.0.0"
+  }
+}
